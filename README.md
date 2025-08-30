@@ -8,7 +8,7 @@ Proyecto profesional realizado como parte de Practicas Profesionales para la emp
 
 ---
 
-##⚙️ Características principales
+## ⚙️ Características principales
 
 CRUD completo de amenities.
 
@@ -49,7 +49,7 @@ En cuento al usuario asociado al establecimiento, puede generar una reserva asig
 
 ## 📚 Funcionalidades
 
--
+- 
 -
 -
 -
